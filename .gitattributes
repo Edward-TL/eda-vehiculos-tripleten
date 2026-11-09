@@ -1,0 +1,2 @@
+# Conserva los bytes y los saltos de línea CRLF del dataset original.
+vehicles_us.csv -text whitespace=cr-at-eol
