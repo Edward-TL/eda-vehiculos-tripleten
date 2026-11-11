@@ -6,8 +6,9 @@ Fecha: 8 de noviembre de 2026, zona America/Mexico_City.
 
 Se desarrolló el proyecto indicado en la
 [lección de TripleTen](https://tripleten.com/trainer/data-scientist/lesson/c779060b-b834-47b3-ac73-7fc21b61558b/?tab=0).
-La validación corresponde al entorno local. La revisión del autor, la publicación
-en GitHub y Render y la aceptación del revisor siguen pendientes.
+Las comprobaciones siguientes corresponden al entorno local de esa fecha.
+La publicación en GitHub se registra al final; la revisión del autor, el
+despliegue en Render y la aceptación del revisor siguen pendientes.
 
 ## Entorno comprobado
 
@@ -46,10 +47,21 @@ en GitHub y Render y la aceptación del revisor siguen pendientes.
 ## Pendientes para entregar
 
 - Revisión y correcciones del autor.
-- Publicar el repositorio en GitHub y hacerlo público para el revisor.
 - Crear/configurar el servicio de Render, desplegar y probar la URL pública.
 - Sustituir el texto pendiente del README por el enlace real de Render.
 - Enviar el enlace de GitHub al revisor de TripleTen.
 
 El README contiene los comandos de instalación, ejecución y publicación. Esta
 validación local no acredita el despliegue ni la aceptación del proyecto.
+
+## Publicación en GitHub · 11 de noviembre de 2026
+
+Repositorio público:
+[Edward-TL/eda-vehiculos-tripleten](https://github.com/Edward-TL/eda-vehiculos-tripleten),
+rama `main`, conectado como remoto `origin` del proyecto local.
+
+Se publica el código validado el 8 de noviembre, junto con la documentación
+actualizada para indicar el repositorio. El entorno virtual, los archivos
+temporales y las capturas locales se mantienen excluidos. Las pruebas
+documentadas arriba corresponden al 8 de noviembre; esta publicación no
+modifica el código de la aplicación ni el notebook.

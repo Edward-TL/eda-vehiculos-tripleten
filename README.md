@@ -6,6 +6,8 @@ un gráfico de dispersión del precio frente al odómetro, construidos con Plotl
 Dos casillas permiten mostrar u ocultar los gráficos de forma independiente.
 También se puede consultar una muestra de los datos originales.
 
+**Repositorio público:** [Edward-TL/eda-vehiculos-tripleten](https://github.com/Edward-TL/eda-vehiculos-tripleten).
+
 **Aplicación en Render:** pendiente de publicación por el autor. Después del
 despliegue, sustituye esta línea por el enlace real a la aplicación.
 
@@ -74,12 +76,13 @@ Las pruebas comprueban la carga de la app, los tipos y datos de los gráficos,
 las cuatro combinaciones de las casillas y el mensaje cuando no se puede leer
 el CSV.
 
-## Publicar después de revisar
+## Actualizar el repositorio y publicar en Render
 
-La carpeta contiene un repositorio Git local. Tras tus correcciones, crea un
-repositorio vacío en GitHub y sigue sus instrucciones para conectar el remoto
-y subir el proyecto. El entorno `vehicles_env` queda excluido del repositorio.
-Para enviarlo al revisor de TripleTen, el repositorio debe ser público.
+El proyecto está publicado en el repositorio público
+[eda-vehiculos-tripleten](https://github.com/Edward-TL/eda-vehiculos-tripleten),
+con la rama `main`. El remoto `origin` del proyecto local apunta a ese
+repositorio. El entorno `vehicles_env` queda excluido del repositorio.
+Tras revisar y confirmar tus correcciones, súbelas con `git push origin main`.
 
 En Render, crea un **Web Service** conectado a ese repositorio y configura:
 
