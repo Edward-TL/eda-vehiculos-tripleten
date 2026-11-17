@@ -8,6 +8,8 @@ También se puede consultar una muestra de los datos originales.
 
 **Repositorio público:** [Edward-TL/eda-vehiculos-tripleten](https://github.com/Edward-TL/eda-vehiculos-tripleten).
 
+**URL del proyecto desplegado en Render:** [Proyecto en Render](https://eda-vehiculos-tripleten.onrender.com).
+
 **Aplicación en Render:** pendiente de publicación por el autor. Después del
 despliegue, sustituye esta línea por el enlace real a la aplicación.
 
